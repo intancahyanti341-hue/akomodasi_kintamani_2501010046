@@ -1,1 +1,6 @@
-
+aspek_etika,status,keterangan
+Kepatuhan Lisensi ODbL,Ya,Menggunakan OpenStreetMap di bawah lisensi Open Database License (ODbL)
+Atribusi Sumber,Ya,Mencantumkan atribusi © OpenStreetMap contributors pada README dan laporan
+Minimisasi Data Pribadi,Ya,Nomor telepon, email, dan kontak pribadi pemilik disengaja tidak diambil
+Sumber Terlarang dihindari,Ya,Tidak menggunakan data dari situs OTA (Booking.com, Agoda, dll) atau Google Maps
+Batas Pemakaian API,Ya,Melakukan query Overpass secara wajar dan dibatasi
